@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Optional: if you generate logs or temp files
+*.log
+tmp/
