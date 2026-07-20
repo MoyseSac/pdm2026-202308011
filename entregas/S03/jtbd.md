@@ -28,7 +28,7 @@
 
 ## 3. Cita que respalda el job
 
-> "Por dejarlo a última hora se me hizo difícil... lo hice la última vez y me salió algo mal. Entonces era más de tenerlo que hacer la última hora. Entonces por eso yo digo si hay que hacerlo todo antes con tiempo y mejor. Si mucho antes entonces sería mejor." — [CITA S2 — Karla Coyoy]
+> "Por dejarlo a última hora se me hizo difícil... lo hice la última vez y me salió algo mal. Entonces era más de tenerlo que hacer la última hora. Entonces por eso yo digo si hay que hacerlo todo antes con tiempo y mejor. Si mucho antes entonces sería mejor." — [CITA S2 — Herlinda Tax]
 
 ---
 
@@ -38,7 +38,7 @@
 
 1. **No es tecnología:** El job existe sin apps, sin calendarios, sin notas. Es un problema de percepción temporal.
 
-2. **Sale de dolor real:** Karla ya probó anotar en calendario/notas (su herramienta actual), pero **eso no la alerta temprano**. Su frustración no es "quiero una forma de guardar tareas" sino "quiero darme cuenta cuando algo está saliendo mal ANTES de que sea urgente."
+2. **Sale de dolor real:** Herlinda ya probó anotar en calendario/notas (su herramienta actual), pero **eso no la alerta temprano**. Su frustración no es "quiero una forma de guardar tareas" sino "quiero darme cuenta cuando algo está saliendo mal ANTES de que sea urgente."
 
 3. **El progreso es emocional + práctico:** 
    - Práctico: entregar a tiempo

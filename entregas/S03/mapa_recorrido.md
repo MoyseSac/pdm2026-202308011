@@ -1,7 +1,8 @@
 # Handout S3 · Mapa de recorrido (el "hoy", sin tu app)
 
 **Estudiante (carnet):** 202308011
- **Entrevistado (alias):** Karla Coyoy
+ **Entrevistado (alias):** Herlinda Tax
+---
 
 **Job que intenta lograr:** Detectar temprano cuáles tareas se están atrasando, antes de que sea urgente, para actuar a tiempo y entregar con calidad.
 
@@ -43,7 +44,7 @@
 
 **La fase donde más sufre es: Fase 4-5 (aproximación a deadline y última hora)**
 
-Porque ahí Karla descubre que:
+Porque ahí Herlinda descubre que:
 - Su sistema de anotación no le alertó temprano
 - La pereza la alcanzó sin que se diera cuenta
 - No hay tiempo para hacer un buen trabajo
@@ -53,39 +54,3 @@ Porque ahí Karla descubre que:
 **Este es el momento donde su confianza inicial ("ya sé lo que tengo que hacer") colapsa y choca con la realidad.**
 
 ---
-
-## → Escribe tu problema (una sola oración)
-
-**POV:**
-> Karla necesita **detectar tempranamente cuándo una tarea está en riesgo de procrastinación** porque hoy solo se da cuenta cuando ya es urgente y la calidad está comprometida, y eso la deja sin tiempo para reaccionar.
-
-**HMW (alternativa):**
-> ¿Cómo podríamos **hacer visible el progreso real de cada tarea** para Karla de modo que se dé cuenta temprano si está procrastinando y pueda actuar a tiempo?
-
----
-
-## Test del problema (marca)
-
-- [x] tiene usuario (Karla)
-- [x] tiene dolor con evidencia (pereza no anticipada, descubre riesgo tarde, calidad comprometida)
-- [x] **NO** contiene la solución (no dice "un reminder", "una app", "una alerta" — dice el problema: no detecta a tiempo)
-
----
-
-## Análisis adicional
-
-**Por qué el valle es en F4-F5:**
-
-La entrevista muestra que Karla tiene una **ilusión de control** en F1-F3:
-- F1: Se siente confiada ("ya sé lo que tengo que hacer")
-- F2: Anota, se siente en control
-- F3: La pereza la gana sin que lo note
-
-Pero **en F4, el sistema colapsa**: se da cuenta demasiado tarde, entra en pánico.
-
-Este colapso es donde vive el problema real. No es pereza, es **falta de retroalimentación temprana sobre el progreso real**.
-
-**Conexión con S02 & S03:**
-- S02 Insight: "Brecha entre planeación y ejecución"
-- S03 Job: "Detectar temprano"
-- S03 Journey Map: Muestra exactamente DÓNDE falla el sistema (F3→F4)
